@@ -1,0 +1,32 @@
+{
+	"pekerjaan": [
+		{
+			"tahun": "2014 - 2020",
+			"posisi": "Administration Staff",
+			"perusahaan": "PT. Karuna Sumber Jaya",
+			"lokasi": "Bogor, West Java, Indonesia",
+			"deskripsi": "Make payments on the entry of wood raw materials both for import and export, carry out strength tests against pallet pressure and issue pallet certificates for export."
+		},
+		{
+			"tahun": "2020 - Present",
+			"posisi": "Fullstack & Mobile Developer",
+			"perusahaan": "PT. Viapulsa Global Indonesia",
+			"lokasi": "Madiun, East Java, Indonesia",
+			"deskripsi": "Develop and maintain pulse conversion and web admin applications using javascript and dart programming languages with flutter and vue.js frameworks."
+		}
+	],
+	"pendidikan": [
+		{
+			"tahun": "2016 - 2020",
+			"gelar": "Bachelor of Computer Science",
+			"kampus": "University of Indraprasta PGRI",
+			"lokasi": "South Jakarta, DKI Jakarta, Indonesia"
+		},
+		{
+			"tahun": "2010 - 2013",
+			"gelar": "Technical Light Vehicle",
+			"kampus": "Vocational High School of PGRI",
+			"lokasi": "Ponorogo, East Java, Indonesia"
+		}
+	]
+}
