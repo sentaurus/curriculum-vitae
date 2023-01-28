@@ -28,5 +28,55 @@
 			"kampus": "Vocational High School of PGRI",
 			"lokasi": "Ponorogo, East Java, Indonesia"
 		}
+	],
+	"sertifikat": [
+		{
+			"title": "Certificate of Compeltion",
+			"author": "Indonesia Android Kejar",
+			"terbit": "Published November 2017",
+			"link": "https://drive.google.com/open?id=1-beuDhlKO8m357gg-_aDrCt0Dv5ju3sP"
+		},
+		{
+			"title": "Get Started Programming With Kotlin",
+			"author": "Dicoding Indonesia",
+			"terbit": "Published April 2020",
+			"link": "https://www.dicoding.com/certificates/N9ZO7J770ZG5"
+		},
+		{
+			"title": "Learn to Make Android Apps for Beginners",
+			"author": "Dicoding Indonesia",
+			"terbit": "Published April 2020",
+			"link": "https://www.dicoding.com/certificates/1RXYMJMMKXVM"
+		},
+		{
+			"title": "Getting Started Programming With Python",
+			"author": "Dicoding Indonesia",
+			"terbit": "Published October 2020",
+			"link": "https://www.dicoding.com/certificates/6RPNK8KY9P2M"
+		},
+		{
+			"title": "Scientific Computing with Python",
+			"author": "freeCodeCamp",
+			"terbit": "Published December 2022",
+			"link": "https://www.freecodecamp.org/certification/dish2112/scientific-computing-with-python-v7"
+		},
+		{
+			"title": "JavaScript Algorithms and Data Structures",
+			"author": "freeCodeCamp",
+			"terbit": "Published December 2022",
+			"link": "https://www.freecodecamp.org/certification/dish2112/javascript-algorithms-and-data-structures"
+		},
+		{
+			"title": "Front End Development Libraries",
+			"author": "freeCodeCamp",
+			"terbit": "Published December 2022",
+			"link": "https://www.freecodecamp.org/certification/dish2112/front-end-development-libraries"
+		},
+		{
+			"title": "Responsive Web Design",
+			"author": "freeCodeCamp",
+			"terbit": "Published January 2023",
+			"link": "https://www.freecodecamp.org/certification/dish2112/responsive-web-design"
+		}
 	]
 }

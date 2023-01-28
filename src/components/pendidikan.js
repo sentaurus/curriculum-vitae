@@ -16,7 +16,7 @@ const Item = ({ item }) => (
 );
 
 const Pendidikan = () => (
-	<Card sx={{ borderRadius: 5 }}>
+	<Card sx={{ mb: 4, borderRadius: 5 }}>
 		<CardContent>
 			<Grid container alignItems='center'>
 				<School fontSize='large' sx={{ mr: 1, color: red[500] }} />

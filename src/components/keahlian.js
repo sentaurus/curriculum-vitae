@@ -1,10 +1,10 @@
 import { Engineering } from '@mui/icons-material';
-import { Card, CardContent, Chip, Divider, Grid, LinearProgress, Typography } from '@mui/material';
+import { Box, Card, CardContent, Chip, Divider, Grid, LinearProgress, Typography } from '@mui/material';
 import { red } from '@mui/material/colors';
 import React from 'react';
 
 const Item = ({ text, value }) => (
-	<Grid container alignItems='center' spacing={1} sx={{ mb: 1 }}>
+	<Grid container alignItems='center' spacing={1} sx={{ mb: 2 }}>
 		<Grid item xs={4}>
 			<Chip label={text} color='error' size='small' />
 		</Grid>
@@ -24,7 +24,10 @@ const Keahlian = () => (
 				</Typography>
 			</Grid>
 			<Divider sx={{ my: 1, bgcolor: red[500] }} />
+			<Typography fontWeight={900}>PT. Karuna Sumber Jaya</Typography>
 			<Item text='Administration' value={70} />
+			<Box sx={{ mb: 2 }} />
+			<Typography fontWeight={900}>PT. Viapulsa Global Indonesia</Typography>
 			<Item text='Flutter' value={65} />
 			<Item text='JavaScript' value={85} />
 			<Item text='MySQL' value={75} />
