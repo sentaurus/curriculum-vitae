@@ -3,7 +3,7 @@ import { red } from '@mui/material/colors';
 import React from 'react';
 
 const Dibuat = () => (
-	<Card sx={{ borderRadius: 5, bgcolor: red[500] }}>
+	<Card sx={{ borderRadius: 5, bgcolor: red[500] }} elevation={5}>
 		<CardContent>
 			<Grid container alignItems='center'>
 				<Typography>Copyright &copy; 2023, Dika Pramudia</Typography>

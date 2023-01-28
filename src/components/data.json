@@ -1,4 +1,25 @@
 {
+	"phone": "+62 812 3456 7890",
+	"alamat": "Madiun, East Java, Indonesia",
+	"email": "dikapramudia@outlook.co.id",
+	"whatsapp": "+62 812 3456 7890",
+	"github": "github.com/sentaurus",
+	"linkedin": "linkedin.com/in/dika-pramudia",
+	"facebook": "facebook.com/dika.sentaurus",
+	"pendidikan": [
+		{
+			"tahun": "2016 - 2020",
+			"gelar": "Bachelor of Computer Science",
+			"kampus": "University of Indraprasta PGRI",
+			"lokasi": "South Jakarta, DKI Jakarta, Indonesia"
+		},
+		{
+			"tahun": "2010 - 2013",
+			"gelar": "Technical Light Vehicle",
+			"kampus": "Vocational High School of PGRI",
+			"lokasi": "Ponorogo, East Java, Indonesia"
+		}
+	],
 	"pekerjaan": [
 		{
 			"tahun": "2014 - 2020",
@@ -13,20 +34,6 @@
 			"perusahaan": "PT. Viapulsa Global Indonesia",
 			"lokasi": "Madiun, East Java, Indonesia",
 			"deskripsi": "Develop and maintain pulse conversion and web admin applications using javascript and dart programming languages with flutter and vue.js frameworks."
-		}
-	],
-	"pendidikan": [
-		{
-			"tahun": "2016 - 2020",
-			"gelar": "Bachelor of Computer Science",
-			"kampus": "University of Indraprasta PGRI",
-			"lokasi": "South Jakarta, DKI Jakarta, Indonesia"
-		},
-		{
-			"tahun": "2010 - 2013",
-			"gelar": "Technical Light Vehicle",
-			"kampus": "Vocational High School of PGRI",
-			"lokasi": "Ponorogo, East Java, Indonesia"
 		}
 	],
 	"sertifikat": [

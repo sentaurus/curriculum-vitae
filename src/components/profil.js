@@ -4,7 +4,7 @@ import { red } from '@mui/material/colors';
 import React from 'react';
 
 const Profil = () => (
-	<Card sx={{ mb: 4, borderRadius: 5 }}>
+	<Card sx={{ mb: 4, borderRadius: 5 }} elevation={5}>
 		<CardContent>
 			<Grid container alignItems='center'>
 				<Person fontSize='large' sx={{ mr: 1, color: red[500] }} />

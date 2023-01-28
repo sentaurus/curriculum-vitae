@@ -17,7 +17,7 @@ const Item = ({ item }) => (
 );
 
 const Pekerjaan = () => (
-	<Card sx={{ mb: 4, borderRadius: 5 }}>
+	<Card sx={{ mb: 4, borderRadius: 5 }} elevation={5}>
 		<CardContent>
 			<Grid container alignItems='center'>
 				<Work fontSize='large' sx={{ mr: 1, color: red[500] }} />

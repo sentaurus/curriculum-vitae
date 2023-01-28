@@ -6,19 +6,19 @@ import avatar from '../assets/avatar.json';
 
 const Foto = () => (
 	<Box>
-		<Card sx={{ mb: 4, borderRadius: 5 }}>
+		<Card sx={{ mb: 4, borderRadius: 5 }} elevation={5}>
 			<CardContent>
 				<Typography fontSize={35} fontWeight={900} color={red[500]}>
 					Curriculum Vitae
 				</Typography>
 			</CardContent>
 		</Card>
-		<Card sx={{ mb: 4, borderRadius: 5 }}>
+		<Card sx={{ mb: 4, borderRadius: 5 }} elevation={5}>
 			<CardContent>
 				<Lottie animationData={avatar} loop={true} />
 			</CardContent>
 		</Card>
-		<Card sx={{ mb: 4, borderRadius: 5 }}>
+		<Card sx={{ mb: 4, borderRadius: 5 }} elevation={5}>
 			<CardContent>
 				<Grid container alignItems='center'>
 					<Typography fontSize={35} fontWeight={500} color={red[500]}>

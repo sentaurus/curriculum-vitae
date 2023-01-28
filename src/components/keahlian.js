@@ -15,7 +15,7 @@ const Item = ({ text, value }) => (
 );
 
 const Keahlian = () => (
-	<Card sx={{ mb: 3, borderRadius: 5 }}>
+	<Card sx={{ mb: 3, borderRadius: 5 }} elevation={5}>
 		<CardContent>
 			<Grid container alignItems='center'>
 				<Engineering fontSize='large' sx={{ mr: 1, color: red[500] }} />

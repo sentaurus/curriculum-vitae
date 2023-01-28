@@ -20,7 +20,7 @@ const Item = ({ item }) => (
 );
 
 const Sertifikat = () => (
-	<Card sx={{ borderRadius: 5 }}>
+	<Card sx={{ borderRadius: 5 }} elevation={5}>
 		<CardContent>
 			<Grid container alignItems='center'>
 				<Verified fontSize='large' sx={{ mr: 1, color: red[500] }} />
